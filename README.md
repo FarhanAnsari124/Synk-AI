@@ -16,7 +16,7 @@ A production-ready full-stack Gen AI job preparation platform.
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/FarhanAnsari124/Synk-AI.git
 cd Synk-AI
 npm install
 npm run dev
