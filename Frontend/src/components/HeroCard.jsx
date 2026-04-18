@@ -1,6 +1,5 @@
 import { useEffect, useState ,useRef} from "react";
-import AuthModal from "../features/auth/components/AuthModal";
-import { globalStyles } from "../pages/Homepage";
+import { globalStyles } from "../pages/LandingPage";
 import Logo from "./Logo";
 
 function HeroCard() { 
