@@ -1,5 +1,5 @@
 import { useEffect, useState ,useRef} from "react";
-import AuthModal from "./AuthModal";
+import AuthModal from "../features/auth/components/AuthModal";
 import { globalStyles } from "../pages/Homepage";
 import Logo from "./Logo";
 

@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import AuthModal from "../components/AuthModal";
+import AuthModal from "../features/auth/components/AuthModal";
 import Logo from "../components/Logo";
 import CheckIcon from "../components/CheckIcon";
 import Stars from "../components/Stars";

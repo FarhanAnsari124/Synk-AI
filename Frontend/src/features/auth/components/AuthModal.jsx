@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "./Logo";
+import Logo from "../../../components/Logo";
 export default function AuthModal({ mode, onClose, onSwitch }) {
   const isLogin = mode === "login";
   const [form, setForm] = useState({ name: "", email: "", password: "", confirm: "" });
